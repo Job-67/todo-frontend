@@ -1061,6 +1061,7 @@ npm run dev
 ```bash
 # บันทึกรูปผลการทดลองที่นี่
 ``` 
+![alt text](image/image.png)
 
 ### ขั้นตอนที่ 8.4: Test Build
 
